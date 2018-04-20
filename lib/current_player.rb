@@ -13,6 +13,6 @@ def current_player(board)
   if(turn%2 == 0)
     player = "X"
   else
-    player = "Y"
+    player = "O"
   end
 end
