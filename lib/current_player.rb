@@ -4,5 +4,6 @@ def turn_count(board)
     if (elements == "X" || elements == "Y")
       count+=1
     end
+  end
   count
 end
